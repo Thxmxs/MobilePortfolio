@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "JetpackComposeBase"
 include(":app")
+include(":MyKotlin")
